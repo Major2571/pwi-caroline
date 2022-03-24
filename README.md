@@ -4,7 +4,7 @@
 ### Seja bem-vindo(a) ao meu perfil GitHub 👋
 
  - 👩‍💻 Estudante de Desenvolvimento de Sistemas; 
- - 📈 Buscando aprender evoluir cada vez mais;
+ - 📈 Buscando aprender e evoluir cada vez mais;
 
 ## O que estou aprendendo atualmente
 
