@@ -1,0 +1,57 @@
+
+body {
+    /* background-color: rgba(130, 205, 255, 0.699); */
+    background-image: url(../img/wallpapers.jpg);
+    background-position: center;
+
+    text-align: center;
+    font-family: 'consolas';
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+.opac {
+    position: relative;
+    padding: 100px 100px;
+    background: rgba(255, 254, 254, 0.178);
+    border-radius: 10px;
+
+}
+
+button {
+    border-radius: 4px;
+    background-color: rgb(101, 186, 212);
+    padding: 15px 50px;
+    border: none;
+    box-shadow: 0px 3px 9px 0px rgb(64, 68, 75),  0 6px 30px 0 rgb(35, 104, 255) ;
+    cursor: pointer;
+    
+    /* tempo do hover */
+    transition-duration: 0.2s;
+    
+
+    font-family: consolas;
+    font-size: 18px;
+
+}
+
+
+/* aquele efeito de quando passa o mouse por cima e muda a cor */
+button:hover {
+    background-color: rgb(45, 212, 190);
+    color:rgb(255, 255, 255);
+}
+
+p{
+    color:rgb(255, 255, 255);
+    text-shadow: 2px 3px 4px #0a0a0a;
+    font-size: 17px;
+}
+
+h1{
+    color:rgb(23, 207, 161);
+    text-shadow: 2px 3px 4px #0f0f0f;
+    padding: 15px 50px;
+}
